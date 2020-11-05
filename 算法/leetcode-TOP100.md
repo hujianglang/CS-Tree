@@ -319,6 +319,7 @@ public class Solution {
 **Solution:**
 
 ```java
+//这道题可以写几个例子试试就更好理解了。
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int[] map = new int[256];
