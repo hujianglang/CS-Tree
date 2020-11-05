@@ -370,7 +370,7 @@ nums2 = [3, 4]
 
 ```java
 方法1：更好理解
-https://www.nowcoder.com/discuss/196951
+<https://www.nowcoder.com/discuss/196951>
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int m = nums1.length, n = nums2.length;
